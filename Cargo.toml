@@ -1,0 +1,6 @@
+[package]
+name = "plato-tile-prompt"
+version = "0.1.0"
+edition = "2021"
+description = "Assemble tile context into LLM prompts with deadband injection and budget management"
+license = "MIT"
