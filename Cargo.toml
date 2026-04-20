@@ -2,7 +2,7 @@
 name = "plato-tile-prompt"
 version = "0.1.0"
 edition = "2021"
-description = "Assemble tile context into LLM prompts with deadband injection and budget management"
+description = "Tile-to-prompt assembly — 4 format styles, budget management, deadband gap injection"
 license = "MIT"
 repository = "https://github.com/SuperInstance/plato-tile-prompt"
 readme = "README.md"
